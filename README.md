@@ -1,4 +1,4 @@
-![Running Devices - TradeChart 2026-02-18 12-49-34 (online-video-cutter com)](https://github.com/user-attachments/assets/5ce412d3-347f-403c-a7c1-d589db6e09c6)📈 TradeChart
+📈 TradeChart
 Denbora Errealeko Negoziazio Simulagailua Android-erako
 
 TradeChart Android-erako negoziazio-simulaziorako aplikazio bat da, merkatuko datuak denbora errealean bistaratzen dituena. Proiektua praktika profesional onenak jarraituz eraikia dago, hala nola Clean Architecture eta MVVM, oinarri sendo, eskalagarri eta mantentzen erraza bermatzeko.
@@ -122,4 +122,10 @@ arkitektura garbi eta profesional baten adibide praktikoa da, Android garapenean
 
 
 
-![Running Devices - TradeChart 2026-02-18 12-49-34 (online-video-cutter com)](https://github.com/user-attachments/assets/43f3575f-a229-441e-b9a0-3a9b85b2e35c)
+
+
+
+![Running Devices - TradeChart 2026-02-18 12-49-34 (online-video-cutter com) (1)](https://github.com/user-attachments/assets/78637bae-42f4-48d0-aef7-adcee4da1ae4)
+![Running Devices - TradeChart 2026-02-18 12-49-34 (online-video-cutter com) (1)](https://github.com/user-attachments/assets/78637bae-42f4-48d0-aef7-adcee4da1ae4)
+![Uploading Running Devices - TradeChart 2026-02-18 12-49-34 (online-video-cutter.com) (1).gif…]()
+![Uploading Running Devices - TradeChart 2026-02-18 12-49-34 (online-video-cutter.com) (1).gif…]()
