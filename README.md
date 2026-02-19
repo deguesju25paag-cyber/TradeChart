@@ -68,41 +68,41 @@ com.example.tradechart
 
         UI egoera-kudeaketa
 
-Domain geruzarekin soilik komunikatzen da.
+    Domain geruzarekin soilik komunikatzen da.
 
 🧠 domain (Negozio Geruza)
 
-Negozio-arau puruak
+    Negozio-arau puruak
 
-UseCase-ak
+    UseCase-ak
 
-Android-ekiko dependentziarik gabe
+    Android-ekiko dependentziarik gabe
 
-Aplikazioaren bihotza da.
+    Aplikazioaren bihotza da.
 
 💾 data (Datu Geruza)
 
-API urrunekoa (Retrofit)
+    API urrunekoa (Retrofit)
 
-Etorkizunean: Room edo beste iturri lokal batzuk
+    Etorkizunean: Room edo beste iturri lokal batzuk
 
-Repository inplementazioak
+    Repository inplementazioak
 
-Domain geruzari datuak hornitzen dizkio.
+    Domain geruzari datuak hornitzen dizkio.
 
 🛠️ Stack Teknologikoa
-Kategoria	Teknologia
-Lengoaia	Kotlin
-UI	Jetpack Compose
-Grafikoak	MPAndroidChart
-Arkitektura	MVVM + Clean Architecture + Repository Pattern
-Asinkronia	Coroutines & Flow
-DI	Hilt
-Sarea	Retrofit + OkHttp
-Nabigazioa	Navigation Compose
-🚀 Nola Hasi
-1️⃣ Klonatu biltegia
-git clone https://URL_DEL_REPOSITORIO.git
+    Kategoria	Teknologia
+    Lengoaia	Kotlin
+    UI	Jetpack Compose
+    Grafikoak	MPAndroidChart
+    Arkitektura	MVVM + Clean Architecture + Repository Pattern
+    Asinkronia	Coroutines & Flow
+    DI	Hilt
+    Sarea	Retrofit + OkHttp
+    Nabigazioa	Navigation Compose
+    🚀 Nola Hasi
+    1️⃣ Klonatu biltegia
+    git clone https://URL_DEL_REPOSITORIO.git
 
 2️⃣ Ireki proiektua Android Studio-n
 3️⃣ Sinkronizatu Gradle
@@ -126,6 +126,4 @@ arkitektura garbi eta profesional baten adibide praktikoa da, Android garapenean
 
 
 ![Running Devices - TradeChart 2026-02-18 12-49-34 (online-video-cutter com) (1)](https://github.com/user-attachments/assets/78637bae-42f4-48d0-aef7-adcee4da1ae4)
-![Running Devices - TradeChart 2026-02-18 12-49-34 (online-video-cutter com) (1)](https://github.com/user-attachments/assets/78637bae-42f4-48d0-aef7-adcee4da1ae4)
-![Uploading Running Devices - TradeChart 2026-02-18 12-49-34 (online-video-cutter.com) (1).gif…]()
-![Uploading Running Devices - TradeChart 2026-02-18 12-49-34 (online-video-cutter.com) (1).gif…]()
+
