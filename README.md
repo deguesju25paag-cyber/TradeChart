@@ -42,20 +42,8 @@ Garapenean teknologia moderno eta sendoak erabili dira, besteak beste: Kotlin, J
 
     TradeChart-ek Clean Architecture printzipioak jarraitzen ditu, arduren bereizketa argia eta eskalagarritasuna bermatzeko.
 
-com.example.tradechart
-│
-├── data
-│   ├── remote         # DTO-ak, Retrofit zerbitzua (API)
-│   └── repository     # Repository inplementazioak
-│
-├── domain
-│   ├── model          # Negozio entitateak (adib. Candle)
-│   ├── repository     # Repository interfazeak
-│   └── usecase        # Negozio-logika (UseCases)
-│
-└── presentation
-    ├── ui             # Compose bistak, ViewModel-ak eta nabigazioa
-    └── components     # UI osagai berrerabilgarriak
+
+<img width="432" height="264" alt="image" src="https://github.com/user-attachments/assets/14c216fa-460e-413f-8965-f14d9a81f7d7" />
 
 📌 Geruzen Azalpena
     🎨 presentation (UI Geruza)
