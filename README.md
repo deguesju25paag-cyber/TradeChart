@@ -8,39 +8,39 @@ Garapenean teknologia moderno eta sendoak erabili dira, besteak beste: Kotlin, J
 ✨ Ezaugarri Nagusiak
 📊 Kandela Grafikoak (Candlestick)
 
-Merkatuko datuen bistaratze dinamikoa eta zehatza, MPAndroidChart liburutegiaren bidez.
+    Merkatuko datuen bistaratze dinamikoa eta zehatza, MPAndroidChart liburutegiaren bidez.
 
 🔄 Zuzeneko Eguneraketak
 
-Prezioen eta grafikoaren eguneraketa jarraitua Kotlin Coroutines & Flow erabiliz, UI erreaktibo eta arina lortzeko.
+    Prezioen eta grafikoaren eguneraketa jarraitua Kotlin Coroutines & Flow erabiliz, UI erreaktibo eta arina lortzeko.
 
 🏛️ Arkitektura Garbia + MVVM
 
-Geruza bakoitza argi bereizita:
+    Geruza bakoitza argi bereizita:
 
-Negozio-logika
+    Negozio-logika
 
-Datu-kudeaketa
+    Datu-kudeaketa
 
-Erabiltzaile-interfazea
+    Erabiltzaile-interfazea
 
-Kodea desakoplatua, testagarria eta mantentzen erraza.
+    Kodea desakoplatua, testagarria eta mantentzen erraza.
 
 💉 Dependentzia Injekzioa
 
-Hilt erabiliz dependentzien kudeaketa eraginkorra eta segurua.
+    Hilt erabiliz dependentzien kudeaketa eraginkorra eta segurua.
 
 🌐 Benetako API baten Kontsumoa
 
-Merkatuko API erreal eta konfiguragarri batera konektatzen da, Retrofit eta OkHttp erabiliz.
+    Merkatuko API erreal eta konfiguragarri batera konektatzen da, Retrofit eta OkHttp erabiliz.
 
 📱 UI Moderno eta %100 Compose
 
-Interfazea guztiz eraikia dago Jetpack Compose erabiliz — UI deklaratiboa, modularra eta erreaktiboa.
+    Interfazea guztiz eraikia dago Jetpack Compose erabiliz — UI deklaratiboa, modularra eta erreaktiboa.
 
 🏗️ Proiektuaren Arkitektura
 
-TradeChart-ek Clean Architecture printzipioak jarraitzen ditu, arduren bereizketa argia eta eskalagarritasuna bermatzeko.
+    TradeChart-ek Clean Architecture printzipioak jarraitzen ditu, arduren bereizketa argia eta eskalagarritasuna bermatzeko.
 
 com.example.tradechart
 │
@@ -58,15 +58,15 @@ com.example.tradechart
     └── components     # UI osagai berrerabilgarriak
 
 📌 Geruzen Azalpena
-🎨 presentation (UI Geruza)
+    🎨 presentation (UI Geruza)
 
-Composable-ak
+        Composable-ak
 
-ViewModel-ak
+        ViewModel-ak
 
-Nabigazioa
+        Nabigazioa
 
-UI egoera-kudeaketa
+        UI egoera-kudeaketa
 
 Domain geruzarekin soilik komunikatzen da.
 
