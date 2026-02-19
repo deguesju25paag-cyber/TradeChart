@@ -121,5 +121,4 @@ TradeChart ez da soilik grafiko bat erakusten duen aplikazioa —
 arkitektura garbi eta profesional baten adibide praktikoa da, Android garapenean praktika moderno eta eskalagarriak erakusteko diseinatua.
 
 
-https://github.com/user-attachments/assets/28d367fd-3f54-47d6-bfd8-7012d1e1effa
-
+![Running Devices - TradeChart 2026-02-18 12-49-34 (online-video-cutter com)](https://github.com/user-attachments/assets/9a2249b8-cc80-4e66-89ad-6862cacecb98)
